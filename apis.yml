@@ -30,7 +30,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 image: https://cdn.prod.website-files.com/5e1de8fb8a405876a58a2235/62e7e7dab3a8997061de9cda_home.png
